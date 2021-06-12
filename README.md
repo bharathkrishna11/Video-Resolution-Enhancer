@@ -1,0 +1,2 @@
+# Video-Resolution-Enhancer
+This project was done for converting a low quality video into a high quality video. This project providing a low quality video as input , then extracting frames from the video,enhancing the images using an Image super resolution model and rejoin the enhanced images.The single Image super resolution models used are Residual Dense Networs(RDN) with Convolutional Neural Networks (CNN) .
